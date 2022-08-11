@@ -1,0 +1,69 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "files.autoSave": "onWindowChange",
+  "files.hotExit": "onExit",
+  "editor.wordWrap": "on",
+  "workbench.editor.wrapTabs": true,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#636361"
+    },
+    {
+      "column": 100,
+      "color": "#636361"
+    },
+    {
+      "column": 120,
+      "color": "#636361"
+    }
+  ],
+  "editor.suggestSelection": "recentlyUsed",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "[css]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2
+  },
+  "[python]": {
+    "editor.wordBasedSuggestions": false,
+    "editor.tabSize": 4
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "html.autoClosingTags": true,
+  "html.format.enable": true,
+  "html.format.endWithNewline": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.wrapLineLength": 120,
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
+  "editor.cursorBlinking": "solid",
+  "files.trimTrailingWhitespace": true,
+  "editor.fontFamily": "'Fira Code','Courier New','monospace'",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.autoIndent": "full",
+  "git.autofetch": true,
+  "editor.linkedEditing": true,
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "editor.find.cursorMoveOnType": true,
+  "explorer.openEditors.visible": 0,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "python.defaultInterpreterPath": "/Users/nimmagth/myenv/bin/python",
+  "cSpell.userWords": ["ujson"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "thunder-client.htmlView": "Raw Html"
+}
+
