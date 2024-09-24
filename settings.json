@@ -21,14 +21,14 @@
     }
   ],
   "editor.suggestSelection": "recentlyUsed",
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "editor.tabSize": 2,
   "[css]": {
     "editor.suggest.insertMode": "replace",
     "editor.tabSize": 2
   },
   "[python]": {
-    "editor.wordBasedSuggestions": false,
+    "editor.wordBasedSuggestions": "allDocuments",
     "editor.tabSize": 4
   },
   "[html]": {
@@ -39,6 +39,7 @@
   "[typescript]": {
     "editor.tabSize": 2
   },
+  "terminal.integrated.env.windows": { "PYTHONPATH": "${workspaceFolder}" },
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
@@ -59,11 +60,20 @@
   "editor.fontLigatures": true,
   "git.enableSmartCommit": true,
   "editor.find.cursorMoveOnType": true,
-  "explorer.openEditors.visible": 0,
+  "explorer.openEditors.visible": 1,
   "bracket-pair-colorizer-2.depreciation-notice": false,
-  "python.defaultInterpreterPath": "/Users/nimmagth/myenv/bin/python",
-  "cSpell.userWords": ["ujson"],
+  "python.defaultInterpreterPath": "c:/Users/nimmagaddat/code-repository/dap-mdd-api/venv/Scripts/python.exe",
+  "cSpell.userWords": [
+    "autofetch",
+    "backref",
+    "esbenp",
+    "Fira",
+    "nimmagaddat",
+    "PYTHONPATH",
+    "ujson",
+    "venv",
+    "vscode"
+  ],
   "security.workspace.trust.untrustedFiles": "open",
   "thunder-client.htmlView": "Raw Html"
 }
-
